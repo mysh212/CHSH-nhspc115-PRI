@@ -9,6 +9,6 @@
  - [題解 ***<font color='#AAAAAA'>Editorial</font>***](https://github.com/mysh212/CHSH-nhspc115-PRI/tree/main/Editorial/)
  - [題本 ***<font color='#AAAAAA'>Statements</font>***](https://github.com/mysh212/CHSH-nhspc115-PRI/tree/main/Problems)
  - [測資 ***<font color='#AAAAAA'>Testcases</font>***](https://github.com/mysh212/CHSH-nhspc115-PRI/tree/main/Testcases)
- - [記分板直播]()
+ - [記分板直播](https://youtu.be/DDdT96jmTBc)
    
 ***HARC X CHSH***
